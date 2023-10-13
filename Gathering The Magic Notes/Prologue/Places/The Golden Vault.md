@@ -1,0 +1,3 @@
+- The tavern where it all started.
+- Barkeep is [[Afaria Fairchild]]
+- 

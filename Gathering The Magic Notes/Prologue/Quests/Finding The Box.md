@@ -1,0 +1,12 @@
+- [[Gerwin Fairwinds]] has sent us to get a golden box with the words [[Golden Vault]] on the front. 
+	- It's in a storefront in the town proper ([[Seferan]])
+	- We will have to pay for it, he hasn't given any guarantee other than his word
+- [[L1TTL3M4N]] ventured into town alone, he's found the Golden Valet shop
+- The rest of us arrived shortly after, [[Flynwan]] specifically worried for [[L1TTL3M4N]]
+- For some reason, Golden Vault is misheard as Golden Valet very often and it rewrites itself in illusions at random
+- General store has a golden [[Golden Valet]] box
+- A magical effect is definitely changing Vault to Valet. 
+- Isarrel has started feeling a pull from the magic censoring "Vault"
+- Found the box, guy in an alley charged us 20GP for it
+- The box compelled [[Rilista]] to go to the basement of the [[Prologue/Places/The Golden Vault|The Golden Vault]]
+- Quest Ends

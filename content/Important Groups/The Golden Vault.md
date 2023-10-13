@@ -1,0 +1,1 @@
+- A group of adventurers, relatively righteous, that we are now part of.

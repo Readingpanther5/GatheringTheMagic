@@ -1,0 +1,6 @@
+- Played By: Tea
+- They/He
+- [[L1TTL3M4N]]'s caretaker/creator
+- Caring personality
+- Quiet so far?
+- Human Artificer

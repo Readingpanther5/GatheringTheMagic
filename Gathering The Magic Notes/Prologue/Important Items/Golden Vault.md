@@ -1,0 +1,8 @@
+- An ornate golden box with a keyhole.
+- Golden vault written on the front
+- Some other runes
+- Forced a will check on contact
+	- Feels warm if you've committed no crimes
+	- Feels cold if you have
+- If opened compels the opener to return to where the box was created
+- Turns out it's now our source of information on new jobs

@@ -1,0 +1,5 @@
+- Played By: Anne
+- Astral Elf Sorcerer
+- She/Her
+- Magically Sensitive
+- VERY quiet

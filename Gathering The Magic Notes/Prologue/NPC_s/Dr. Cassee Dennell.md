@@ -1,0 +1,3 @@
+- Anthropologist with the [[Museum of Natural History]]
+- Main contact for the Quest: [[You Will Steal Me An Egg]]
+- Realized the [[Egg of Eldritch Horror]] was not, in fact, an artifact. Was summarily ignored.

@@ -1,0 +1,7 @@
+- Played By: Me :)
+- She/Her
+- Fairy Wild Magic Sorcerer
+- Curious
+- Mischievous
+- Little Bit Dramatic
+- Basically A Little Shit

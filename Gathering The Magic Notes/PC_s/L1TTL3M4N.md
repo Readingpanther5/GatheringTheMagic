@@ -1,0 +1,7 @@
+- Played By: Ray
+- It/He
+- 2' warforged rogue
+- Naïve
+- Insatiably Curious
+- Adventurous
+- Closely tied with Flywan

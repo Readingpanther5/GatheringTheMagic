@@ -26,10 +26,33 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Explorer({
+        title: "Explorer",
+        folderClickBehavior: "collapse",
+        folderDefaultState: "open",
+        useSavedState: true,
+        sortFn: (a, b) => {
+          if ((!a.file && !b.file) || (a.file && b.file)) {
+            return a.displayName.localeCompare(b.displayName, undefined, {
+              numeric: true,
+              sensitivity: "base",
+            })
+          }
+          if (a.file && !b.file) {
+            return 1
+          }
+          else{
+            return -1
+          }
+        },
+    }),
+    ],
+  pageBody: [
+   
   ],
   right: [
     Component.Graph(),
+    Component.TableOfContents(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

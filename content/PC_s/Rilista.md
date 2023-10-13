@@ -1,0 +1,7 @@
+- Played By: Icarus
+- She/Her
+- Hotheaded
+- Curious
+- Bit clueless
+- Trouble-prone 
+- Tiefling Cleric

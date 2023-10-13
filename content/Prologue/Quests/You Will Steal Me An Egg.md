@@ -1,0 +1,4 @@
+- A voice came from the box greeting us as operatives
+	- An [[Egg of Eldritch Horror]] is about to be displayed at the [[Museum of Natural History]]
+	- [[Dr. Cassee Dennell]] (Anthropologist) objected, but was overruled
+	- We are to steal the [[Egg of Eldritch Horror|egg]] before it is too late.

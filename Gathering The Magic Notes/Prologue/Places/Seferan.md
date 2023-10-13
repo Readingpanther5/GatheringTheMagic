@@ -1,0 +1,3 @@
+- City loves music
+- Also maybe cursed
+- People think its name is Silver Valet(?)
